@@ -1,12 +1,3 @@
 [submodule "Cache"]
 	path = Cache
 	url = https://github.com/ngcmpc/Redis.git
-[submodule "Message-Dispatcher"]
-	path = Message-Dispatcher
-	url = https://github.com/ngcmpc/Dispatcher.git
-[submodule "Event-Publisher"]
-	path = Event-Publisher
-	url = https://github.com/ngcmpc/Publisher.git
-[submodule "MQTT-Broker"]
-	path = MQTT-Broker
-	url = https://github.com/ngcmpc/MQTT-broker.git
