@@ -10,3 +10,6 @@
 [submodule "MQTT-broker"]
 	path = MQTT-broker
 	url = https://github.com/ngcmpc/MQTT-broker.git
+[submodule "Other"]
+	path = Other
+	url = https://github.com/ngcmpc/Other.git
